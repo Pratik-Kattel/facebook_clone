@@ -1,0 +1,38 @@
+name: facebook
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.6.0 # For Messenger icon
+  http: ^0.13.6 # ✅ For backend API calls
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/facebook.png
+    - assets/images/Ronaldo.webp
+    - assets/images/CR7.jpg
+    - assets/images/Lewa.webp
+    - assets/images/Pratik.png
+    - assets/images/Mbappe.webp
+    - assets/images/Messi.webp
+    - assets/images/Neymar.jpg
+    - assets/images/Vini.webp
+    - assets/images/Maldini.jpg
+    - assets/images/Carlos.jpg
+    - assets/images/Euro.webp
+    - assets/images/newaccount.png
