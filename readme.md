@@ -12,5 +12,5 @@ A simple full-stack Facebook clone using Flutter (frontend) and Node.js + MongoD
 ```bash
 cd backend
 npm install
-node server.js
+node app.js
 
